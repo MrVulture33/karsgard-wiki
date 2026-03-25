@@ -3,7 +3,7 @@ title: Species & Cultures
 draft: false
 tags:
 ---
-[[index|Welcome]] to **Species & Cultures**, in this section of the Encyclopedia, we will delve into the various different humanoid species of [[Mundane World of Karsgard|Karsgard]], their origins, appearance, and place in the world. Some species have a variety of different **cultures** and they will be explained further in this section as well.
+[[content/index|Welcome]] to **Species & Cultures**, in this section of the Encyclopedia, we will delve into the various different humanoid species of [[Mundane World of Karsgard|Karsgard]], their origins, appearance, and place in the world. Some species have a variety of different **cultures** and they will be explained further in this section as well.
 
 To start, we'll talk about the five dominant species, defined here as both the most common species, but also those with largest influence, reach, might, and political power.
 
