@@ -6,11 +6,11 @@ title: Welcome to Karsgard
 
 Salutations! And may I, [[Professor Phineas Phogsworth V]], bid you most welcome to my humble little library of scattered notes; the **Encyclopedia Karsgardiana**!
 
-I admit, my boundless ambition to one day publuch this encyclopedia may have overshot the mark a bit, [[Karsgard]], is a large place, far larger than I anticipated during my youth growing in [[Zir]].
+I admit, my boundless ambition to one day publish this encyclopedia may have overshot the mark a bit, [[Karsgard]], is a large place, far larger than I anticipated during my youth growing in [[Zir]].
 
-Perhapos one day, my great grandson may collect this smattering of various notes, chapters and hastily weritten diary entries and publish the book as a series of volumes for 10 [[Currency|gold crowns]] a piece; but for now this mess of a library is allk that you're left with.
+Perhaps one day, my great grandson may collect this smattering of various notes, chapters and hastily written diary entries and publish the book as a series of volumes for 10 [[Currency|gold crowns]] a piece; but for now this mess of a library is all that you're left with.
 
-I've been lucy; the [[College of Loravalur]] has granted me a permanent study here and funded my exploits! They tell me I'm heading to the [[Astral Sea]] in a few days!
+I've been lucky; the [[College of Loravalur]] has granted me a permanent study here and funded my exploits! They tell me I'm heading to the [[Astral Sea]] in a few days!
 
 For the time being, may I direct you to one of our library sections;
 
