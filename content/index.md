@@ -1,7 +1,6 @@
 ---
 title: Welcome to Karsgard
 ---
-
 **A FOREWORD BY PROFESSOR PHINEAS PHOGSWORTH V**
 
 Salutations! And may I, [[Professor Phineas Phogsworth V]], bid you most welcome to my humble little library of scattered notes; the **Encyclopedia Karsgardiana**!
