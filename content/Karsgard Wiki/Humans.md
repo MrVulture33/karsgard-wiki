@@ -1,7 +1,4 @@
 ---
-aliases:
-  - hoomans
-  - humans
 title: Humans
 draft: true
 tags:
