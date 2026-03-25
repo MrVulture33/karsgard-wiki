@@ -3,7 +3,7 @@ title: Seven Realms
 draft: false
 tags:
 ---
-When discussing the topic of [[Geography & Politics|geography]] of [[Karsgard]], it's helpful to divide the world into sections of places with similar [[cultures]], [[Religions|religions]], and [[Weather]]. On land, we call these sections Realms. And our home [[plane]] has seven of them;
+When discussing the topic of [[Geography & Politics|geography]] of [[Mundane World of Karsgard|Karsgard]], it's helpful to divide the world into sections of places with similar [[cultures]], [[Religions|religions]], and [[Weather]]. On land, we call these sections Realms. And our home [[plane]] has seven of them;
 
 - [[Quinrell]], the ancient homeland of the elves.
 - [[Atrexia]], the realms of tumult and struggle.

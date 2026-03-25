@@ -8,14 +8,14 @@ tags:
 > On the _Nature of Humans; Their Power and their Ambition_
 > by Prof. Englobert Dinklebinkle, Professor of Life Studies in the [[College of Loravalur]]
 
-Out of all the separate [[Species & Cultures|Species]] that inhabits the vast world of [[Karsgard]], the Humans are not just the most prominent, but also the only ones actually native to the [[Common World]]. A majority of the [[Seven Realms]] are thick with Humans, their kingdoms, their trade, their craft, or their kin.
+Out of all the separate [[Species & Cultures|Species]] that inhabits the vast world of [[Mundane World of Karsgard|Karsgard]], the Humans are not just the most prominent, but also the only ones actually native to the [[Common World]]. A majority of the [[Seven Realms]] are thick with Humans, their kingdoms, their trade, their craft, or their kin.
 
 They are known for their trade, their ambition, and ingenuity. They are short-lived compared to [[Dwarves]] and [[Elves]], but perhaps it is because of their short lives that they strive for greatness.
 
 ## Cultures
 _For where each culture can be found, see the [[Human Culture Map]]_
 
-In Karsgard, there are a number of different Human cultures. While each culture is associated with a particular homeland, because of immigration a person of any culture could find themselves in any other culture's homeland. Furthermore, migration might mean that a person looks like a person of one culture, but behaves like a person from another. That is to say that a woman might look Takayan, behave Fendrian, have a Caelid name, and live in Atrexia.
+In **Karsgard**, there are a number of different Human cultures. While each culture is associated with a particular homeland, because of immigration a person of any culture could find themselves in any other culture's homeland. Furthermore, migration might mean that a person looks like a person of one culture, but behaves like a person from another. That is to say that a woman might look Takayan, behave Fendrian, have a Caelid name, and live in Atrexia.
 
 - [[Takayan]] people of the vast and boiling hot [[Takay]] desert.
 - [[Fendrian]] people of the petty feudal kingdoms of [[Fendarana]].

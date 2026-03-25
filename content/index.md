@@ -5,7 +5,7 @@ title: Welcome to Karsgard
 
 Salutations! And may I, [[Professor Phineas Phogsworth V]], bid you most welcome to my humble little library of scattered notes; the **Encyclopedia Karsgardiana**!
 
-I admit, my boundless ambition to one day publish this encyclopedia may have overshot the mark a bit, [[Karsgard]], is a large place, far larger than I anticipated during my youth growing in [[Zir]].
+I admit, my boundless ambition to one day publish this encyclopedia may have overshot the mark a bit, [[Mundane World of Karsgard|Karsgard]], is a large place, far larger than I anticipated during my youth growing in [[Zir]].
 
 Perhaps one day, my great grandson may collect this smattering of various notes, chapters and hastily written diary entries and publish the book as a series of volumes for 10 [[Currency|gold crowns]] a piece; but for now this mess of a library is all that you're left with.
 

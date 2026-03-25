@@ -12,7 +12,7 @@ The incredibly prosperous Takayan people are one of the oldest [[Humans|human]] 
 ## Origins
 There have been people in the [[Takay]] since before the [[Convergence]]. Their culture however started developing during the [[Rule of the Many Dragon Kings]] under the reign of the [[Dragon King Asmartarta]]. These proto-takayans would continue to develop their customs after Astmartarta's death at the hands of [[Razul]].
 
-During the early [[Modern Period]], however, their culture developed further as the [[Takay Empire]] spread across the [[Takay]] desert and then across [[Karsgard]]. They built great pyramids, temples to their gods, and crowned pharaohs to rule over them.
+During the early [[Modern Period]], however, their culture developed further as the [[Takay Empire]] spread across the [[Takay]] desert and then across [[Mundane World of Karsgard|Karsgard]]. They built great pyramids, temples to their gods, and crowned pharaohs to rule over them.
 
 
 ## Appearance
