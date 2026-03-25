@@ -1,6 +1,6 @@
 ---
 title: Humans
-draft: true
+draft: false
 tags:
 ---
 > While the natives of this world have no propensity for the supernatural at birth, they've shown a remarkable ability to learn, harness, and tame the abilities of any other civilized species. No other species is as able to create their own power as effectively as these barbaric brutes.

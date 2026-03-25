@@ -1,6 +1,6 @@
 ---
 title: Takayan
-draft: true
+draft: false
 tags:
 ---
 > Be industrious, let thine eyes be open, lest you become a beggar, for the man that is idle cometh not to honor.
