@@ -1,6 +1,6 @@
 ---
 title: Expeditionary Group
-draft: false
+draft: true
 tags:
 ---
 The **Expeditionary Group** is a subdivision of the [[Special Tactics Branch]], they are overseen by

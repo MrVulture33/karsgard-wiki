@@ -1,6 +1,6 @@
 ---
 title: Communications Group
-draft: false
+draft: true
 tags:
 ---
 The **Communications Group** is a subdivision of the [[Special Tactics Branch]], they are overseen

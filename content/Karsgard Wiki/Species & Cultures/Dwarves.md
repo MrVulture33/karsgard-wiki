@@ -8,9 +8,9 @@ tags:
 > Art of Creation: Dwarves and their Mastery of All Things
 > Englebert Dinklebinkle, Professor of Life Studies in the [[College of Loravalur]]
 
-Other than the pervasive [[Humans]], **Dwarves** are the second most populous [[Species & Cultures|Species]] in the vast world of [[Mundane World of Karsgard|Karsgard]]. While many words can be used to accurately describe Dwarves from an outside perspective: brash, tough, industrious, or wise. One continues to be the greatest description of them thus far: Creative.
+Other than the pervasive [[Humans]], **Dwarves** are the second most populous [[Species & Cultures|Species]] in the vast world of [[Mundane World of Karsgard|Karsgard]]. While many words can be used to accurately describe Dwarves from an outside perspective: brash, tough, industrious, or wise; one continues to be the greatest description of them thus far: Creative.
 
-Their love for creativity is unrivaled by all other species. Weather it's a byproduct of their culture is still a hotly argued topic, but most seem to agree that there exists an innate love of creativity within all Dwarves.
+Their love for creativity is unrivaled by all other species. Whether it's a byproduct of their culture is still a hotly argued topic, but most seem to agree that there exists an innate love of creativity within all Dwarves.
 
 ## Cultures
 Dwarves come from a wide variety of cultures !!!!!!
