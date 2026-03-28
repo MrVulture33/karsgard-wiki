@@ -3,7 +3,7 @@ title: Dwarves
 draft: false
 tags:
 ---
-> There is no creature alive with a love of creation as deeply engrained as the Dwarves. For their enemies, this love manifests as fierce weapons. But for their friends? It's lovely meals, quality ales, exquisite art, and ingenious solutions to seemingly impossible problems.
+> There is no creature alive with a love of creation as deeply ingrained as the Dwarves. For their enemies, this love manifests as fierce weapons. But for their friends? It's lovely meals, quality ales, exquisite art, and ingenious solutions to seemingly impossible problems.
 >
 > Art of Creation: Dwarves and their Mastery of All Things
 > Englebert Dinklebinkle, Professor of Life Studies in the [[College of Loravalur]]
