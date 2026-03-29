@@ -6,7 +6,7 @@ tags:
 > While the natives of this world have no propensity for the supernatural at birth, they've shown a remarkable ability to learn, harness, and tame the abilities of any other civilized species. No other species is as able to create their own power as effectively as these barbaric brutes.
 >
 > On the _Nature of Humans; Their Power and their Ambition_
-> by Prof. Englobert Dinklebinkle, Professor of Life Studies in the [[College of Loravalur]]
+> by Englebert Dinklebinkle, Professor of Life Studies in the [[College of Loravalur]]
 
 Out of all the separate [[Species & Cultures|Species]] that inhabits the vast world of [[Mundane World of Karsgard|Karsgard]], the Humans are not just the most prominent, but also the only ones actually native to the [[Common World]]. A majority of the [[Seven Realms]] are thick with Humans, their kingdoms, their trade, their craft, or their kin.
 
