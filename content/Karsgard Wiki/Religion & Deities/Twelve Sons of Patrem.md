@@ -15,7 +15,7 @@ Each Son has a domain of its own, while Patrem embodies parenthood, discipline, 
 - **Sexteron**, the self-indulgent. Male presented (Madness, Rum domain)
 - **Heptimus**, the crafter. Male presented (Fire, Forge domain)
 - **Octakiseron**, the devastating. Female presented (Tempest, Destruction domain)
-- **Nonagesimus**, the opulent. Female presented (Reason, Wealth domain)
+- **Nonagesimus**, the opulent. Female presented (Blood, Wealth domain)
 - **Decaron**, the corrupt. Ambiguous presented (Pestilence, Blood domain)
 - **Undecai**, the nocturnal. Female presented (Night, Hunt domain)
 - **Dodecei**, the diurnal. Male presented (Light, Trickery domain)
